@@ -60,6 +60,10 @@
 		<name>Profile</name>
 	</types>
 	<types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+	<types>
 		<members>SalesDep/AccountReport1_eLn</members>
 		<members>SalesDep/New_CustumObj1_Report_bS9</members>
 		<name>Report</name>
