@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CustumObj1_2RT</fullName>
+    <active>true</active>
+    <label>CustumObj1_2RT</label>
+    <picklistValues>
+        <picklist>CustomPicklst1__c</picklist>
+        <values>
+            <fullName>値1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>値3</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>値4</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>値5</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
