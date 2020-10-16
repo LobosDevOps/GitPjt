@@ -24,6 +24,7 @@
                     <lightning:inputField fieldName="CustomDate1__c" value="{!v.custumObj1.CustomDate1__c}" />
                     <lightning:inputField fieldName="CustomPicklst1__c"  value="{!v.custumObj1.CustomPicklst1__c}"/>
                     <lightning:inputField fieldName="CustomText1__c"  value="{!v.custumObj1.CustomText1__c}"/>
+                    <lightning:inputField fieldName="DevA_Add1__c"  value="{!v.custumObj1.DevA_Add1__c}"/>
 
                     <lightning:button type="submit" name="Submit" label="submit" class="slds-m-top_medium"/>
                 </lightning:recordEditForm>
